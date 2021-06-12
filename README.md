@@ -1,2 +1,2 @@
-# DP-Algorithms-Codes
+# DP-Problems-Codes
 All Problems solved while studying Dynamic Programming.... 
